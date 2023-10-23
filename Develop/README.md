@@ -4,7 +4,7 @@
 
 ## Description
 
-Test
+This is a generator for README Files. Making it quick and easy for developers.
 
 ## Table of Contents 
 
@@ -22,27 +22,27 @@ Test
 To install necessary dependencies, run the following command:
 
 ```
-Test
+test
 ```
 
 ## Usage
 
-Test
+test
 
 ## License
-
+ 
 This project is licensed under the MIT license.
 
 ## Contributing
 
-Test
+test
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-Test
+test
 ```
 
 ## Questions
