@@ -1,7 +1,7 @@
 # README Generator
 
 ## Description
-i have created a README Generator application which makes it quick and easy for developers ti input necessary and required information. 
+I have created a README Generator application which makes it quick and easy for developers ti input necessary and required information. 
 
 ## Installation
     1. Clone the repo.
@@ -9,7 +9,6 @@ i have created a README Generator application which makes it quick and easy for 
     2. Open in VS Code.
 
     3. Ensure node.js is installed.
-
 
     4. Run the command npm i inquirer@8.2.4 in terminal
 
